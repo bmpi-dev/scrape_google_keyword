@@ -7,6 +7,7 @@
 ```
 pip install -r requirements.txt
 npm install
+source .env # you can copy .env_sample to .env with your proxy server
 ```
 
 1. start proxy server
